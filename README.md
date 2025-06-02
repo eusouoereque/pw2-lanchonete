@@ -4,10 +4,10 @@ Este é um sistema de gerenciamento para lanchonetes desenvolvido como parte de 
 
 ## Membros do Grupo
 
-* **[Nome Completo do Membro 1]** - RA: [RA do Membro 1]
-* **[Nome Completo do Membro 2]** - RA: [RA do Membro 2]
-* **[Nome Completo do Membro 3]** - RA: [RA do Membro 3]
-    * *(Adicione ou remova membros conforme necessário)*
+* ** Eric Henrique Pereira - 115211
+* ** Lucas Moreno - 114998
+* ** Vital Vieira Junior - 114787
+* ** Thiago Oliverio - 114494
 
 ## Sobre o Projeto
 
